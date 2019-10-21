@@ -9,7 +9,7 @@ django-bootstrap4==0.0.6
 django-extensions==2.0.7
 django-filter==1.1.0
 django-rest-swagger==2.2.0
-djangorestframework==3.8.2
+djangorestframework==3.9.1
 dlib==19.13.1
 idna==2.6
 imutils==0.4.6
